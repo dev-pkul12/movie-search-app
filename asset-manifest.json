@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cine-hunt-app/static/css/main.334bdeb1.css",
+    "main.js": "/cine-hunt-app/static/js/main.cdf3175b.js",
+    "index.html": "/cine-hunt-app/index.html",
+    "static/media/search.svg": "/cine-hunt-app/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.334bdeb1.css.map": "/cine-hunt-app/static/css/main.334bdeb1.css.map",
+    "main.cdf3175b.js.map": "/cine-hunt-app/static/js/main.cdf3175b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.cdf3175b.js"
+  ]
+}
